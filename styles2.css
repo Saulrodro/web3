@@ -1,0 +1,24 @@
+.Logo{
+  justify-content: right;
+  display: grid;
+  grid-template-columns:
+  gap: 2rem;
+}
+.Titulo{
+ initial-letter-align: Small;
+}
+.Parrafo{
+  display: Flex;
+  font-display: ;
+}
+.pf-1{
+ text-align: center;
+ margin: 0px; 50px;
+}
+
+.carousel-inner{
+
+}
+.carousel-item active{
+
+}
